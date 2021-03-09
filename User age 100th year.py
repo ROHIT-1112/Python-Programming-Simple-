@@ -1,21 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # Python Codes
-
-# In[5]:
-
-
-# While Loops in Python .
-while True:
-    line = input('>')
-    if line == 'done':
-        break
-    print(line)
-print('Result Achieved')
-
-
-# In[24]:
 
 
 # Operator Info & Prediction .
@@ -28,13 +11,7 @@ year = current_year + 100
 print('{},you will turn 100 years in {} .'.format(name,year))
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
